@@ -16,7 +16,9 @@ th{
 #goback{
     position: fixed;
     top: 1px;
+    right: 1px;
     height: 100px;
     width: 100px;
 }
+
 
